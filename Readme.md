@@ -7,3 +7,5 @@ Iniciando o git utilizando o vim.
 Editando o arquivo.
 
 Editando o arquivo 2.
+
+Editando o arquivo 3.
