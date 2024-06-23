@@ -11,3 +11,5 @@ Editando o arquivo 2.
 Editando o arquivo 3.
 
 Editando o arquivo 4.
+
+Enviando alteração para repositorio remoto.
